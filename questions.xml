@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <topic id="1">
+        <text>Перевозка групп детей</text>
+    </topic>
+    <topic id="2">
+        <text>Админ. ответственность</text>
+    </topic>
+     <topic id="3">
+        <text>Оказание мед. помощи</text>
+    </topic>
+     <topic id="4">
+        <text>Безопасность, буксировка</text>
+    </topic>
+    <topic id="5">
+        <text>Скорость, движение</text>
+    </topic>
+    <topic id="6">
+        <text>Обгон, маневрирование</text>
+    </topic>
+    <topic id="7">
+        <text>Остановки, стоянка</text>
+    </topic>
+    <topic id="8">
+        <text>Проезд перекрестков</text>
+    </topic>
+    <topic id="9">
+        <text>Различные сигналы</text>
+    </topic>
+    <question id="208" topic="1">
+        <text>В каком из перечисленных случаев не требуется включение ближнего света фар для обозначения транспортного средства в светлое время суток?</text>
+        <highwayCode>9.8</highwayCode>
+        <answer isCorrect="false">При перевозке организованных групп детей в автобусах.</answer>
+        <answer isCorrect="false">При движении в оранизованной колонне.</answer>
+        <answer isCorrect="false">На буксирующем транспортном средстве.</answer>
+        <answer isCorrect="false">При перевозке крупногабаритных, тяжеловесных и опасных грузов, или не обезвреженной тары из-под них.</answer>
+        <answer isCorrect="true">При следовании неисправного транспортного средства к месту его стоянки или ремонта.</answer>
+    </question>
+    <question id="119" topic="2">
+        <text>Какая административная ответственность водителей предусмотрена за превышение установленных ограничений скорости движение более чем на 20 км/ч?</text>
+        <highwayCode>Ст.122</highwayCode>
+        <answer isCorrect="true">Штраф в размере 17-34 грн.</answer>
+        <answer isCorrect="false">Лишение права управления транспортными средствами сроком от 3-х до 6 месяцев.</answer>
+        <answer isCorrect="false">Предупреждение или штраф в размере 8.5 — 17 грн.</answer>
+    </question>
+     <question id="2420" topic="3">
+        <text>На каком рисунке показано положение пострадавшего, в котором рекомендуется его транспортировать при ранении головы? Пострадавший находится в сознании.</text>
+        <highwayCode>Неправильно выбранное положение при транспортировке может привести к преждевременной гибели пострадавшего!!! "Я-водитель"</highwayCode>
+        <answer isCorrect="false">Только на рисунке 1.</answer>
+        <answer isCorrect="true">Только на рисунке 2.</answer>
+        <answer isCorrect="false">На рисунках 1 и 2.</answer>
+    </question>
+    <question id="4620" topic="3">
+        <text>На каком рисунке правильно показан метод восстановления дыхания и кровообращения у пострадавшего?</text>
+        <highwayCode>Оказывайте помощь до тех пор, пока у пострадавшего не появится дыхание или пульс!!! М.Буянов, стр.78</highwayCode>
+        <answer isCorrect="false">На рисунках 1 и 2.</answer>
+        <answer isCorrect="true">На рисунке 1.</answer>
+        <answer isCorrect="false">На рисунке 2.</answer>
+    </question>
+    <question id="118" topic="4">
+        <text>Какой из указанных автомобилей наиболее устойчив против опрокидывания?</text>
+        <highwayCode>0118, ОБД</highwayCode>
+        <answer isCorrect="true">Автобус, при наличии в нем стоящих пассажиров.</answer>
+        <answer isCorrect="false">Автокран.</answer>
+        <answer isCorrect="false">Порожний грузовой автомобиль.</answer>
+    </question>
+    <question id="1319" topic="4">
+        <text>Какое освещение должно быть включено на автомобиле при встречном разъезде на неосвещенных участках дороги?</text>
+        <highwayCode>19.2</highwayCode>
+        <answer isCorrect="false">Габаритные огни.</answer>
+        <answer isCorrect="false">Дальний свет фар.</answer>
+        <answer isCorrect="true">Ближний свет фар.</answer>
+    </question>
+    <question id="1518" topic="4">
+        <text>В каком случае центробежная сила при повороте уменьшается?</text>
+        <highwayCode>ОБД</highwayCode>
+        <answer isCorrect="true">При резком повороте рулевого колеса в сторону поворота.</answer>
+        <answer isCorrect="false">При снижении скорости движения.</answer>
+        <answer isCorrect="false">При уменьшении радиуса поворота.</answer>
+    </question>
+    <question id="2320" topic="4">
+        <text>Разрешается ли перевозить детей на мотоцикле без бокового прицепа?</text>
+        <highwayCode>21.11 "Б"</highwayCode>
+        <answer isCorrect="false">Разрешается.</answer>
+        <answer isCorrect="false">Разрешается детей старше 12-летнего возраста или ростом более 145 см.</answer>
+        <answer isCorrect="false">Разрешается при наличии взрослого пассажира.</answer>
+        <answer isCorrect="true">Запрещается.</answer>
+    </question>
+    <question id="2618" topic="4">
+        <text>Если вы приближаетесь к повороту дороги налево, а он оказался более крутым, чем предполагалось, Вы должны:</text>
+        <highwayCode>ОБД</highwayCode>
+        <answer isCorrect="false">Продолжать движение, не изменяя скорости и придерживаясь левого края проезжей части дороги.</answer>
+        <answer isCorrect="true">Снизить скорость движения.</answer>
+    </question>
+    <question id="3518" topic="4">
+        <text>Как пользоваться тормозами на покрытой листьями, скользкой дороге?</text>
+        <highwayCode>ОБД</highwayCode>
+        <answer isCorrect="true">Тормозить плавно, прерывистыми нажатиями на педаль тормоза, не выключая сцепления и не производя резких поворотов рулевого колеса.</answer>
+        <answer isCorrect="false">Выключить сцепление и плавно тормозить.</answer>
+    </question>
+    <question id="4310" topic="5">
+        <text>С какой максимальной скоростью может осуществляться буксировка в данных условиях?</text>
+        <highwayCode>12.7</highwayCode>
+        <answer isCorrect="false">30 км/ч.</answer>
+        <answer isCorrect="true">50 км/ч.</answer>
+        <answer isCorrect="false">70 км/ч.</answer>
+        <answer isCorrect="false">80 км/ч.</answer>
+    </question>
+    <question id="0110" topic="5">
+        <text>С какой максимальной скоростью разрешается движение легковых автомобилей на участках дорог, обозначенных таким дорожным знаком?</text>
+        <highwayCode>12.6</highwayCode>
+        <answer isCorrect="false">70 км/ч.</answer>
+        <answer isCorrect="false">80 км/ч.</answer>
+        <answer isCorrect="true">90 км/ч.</answer>
+        <answer isCorrect="false">100 км/ч.</answer>
+        <answer isCorrect="false">130 км/ч.</answer>
+    </question>
+    <question id="1201" topic="5">
+        <text>Что понимается под определением "Недостаточная видимость"?</text>
+        <highwayCode>1.10</highwayCode>
+        <answer isCorrect="false">Дождь, снегопад, сумерки. Видимость менее 400м.</answer>
+        <answer isCorrect="true">Видимость дороги в направлении движения менее 300м в сумерках, условиях тумана, дождя, снегопада и т.д.</answer>
+    </question>
+    <question id="1902" topic="5">
+        <text>Водителю какого транспортного средства разрешено движение задним ходом?</text>
+        <highwayCode>10.10</highwayCode>
+        <answer isCorrect="false">Водителю грузового автомобиля.</answer>
+        <answer isCorrect="false">Водителю легкового автомобиля.</answer>
+        <answer isCorrect="true">Водителям обоих автомобилей.</answer>
+        <answer isCorrect="false">Водителям обоих автомобилей движение задним ходом запрещено.</answer>
+    </question>
+    <question id="3410" topic="5">
+        <text>С какой максимальной скоростью разрешается движение мотоциклов в зоне, обозначенной данным знаком?</text>
+        <highwayCode>12.5</highwayCode>
+        <answer isCorrect="false">5 км/ч.</answer>
+        <answer isCorrect="false">10 км/ч.</answer>
+        <answer isCorrect="false">15 км/ч.</answer>
+        <answer isCorrect="true">20 км/ч.</answer>
+        <answer isCorrect="false">По усмотрению водителя, обеспечив безопасность движения.</answer>
+    </question>
+    <question id="4117" topic="6">
+        <text>Кто из участников дорожного движения нарушает Правила?</text>
+        <highwayCode>4.14 "А" 6.7 "Б" 27,2 "Б"</highwayCode>
+        <answer isCorrect="false">Водители всех транспортных средств.</answer>
+        <answer isCorrect="false">Водители грузового автомобиля и велосипеда.</answer>
+        <answer isCorrect="false">Никто не нарушает.</answer>
+        <answer isCorrect="true">Нарушают водители велосипеда, красного легкового автомобиля и пешеходы.</answer>
+    </question>
+    <question id="102" topic="6">
+        <text>Водитель какого транспортного средства должен уступить дорогу при перестроении?</text>
+        <highwayCode>10.3</highwayCode>
+        <answer isCorrect="true">Водитель легкового автомобиля.</answer>
+        <answer isCorrect="false">Водитель грузового автомобиля.</answer>
+    </question>
+    <question id="909" topic="6">
+        <text>Разрешен ли обгон в данной ситуации вне населенного пункта?</text>
+        <highwayCode>14.6 "Б"</highwayCode>
+        <answer isCorrect="true">Разрешен только одиночных транспортных средств, движущихся со скоростью менее 30 км/час.</answer>
+        <answer isCorrect="false">Запрещен.</answer>
+        <answer isCorrect="false">Разрешен во всех случаях.</answer>
+    </question>
+    <question id="2609" topic="6">
+        <text>Разрешается ли водителю желтого автомобиля выполнить обгон?</text>
+        <highwayCode>14.6 "А"</highwayCode>
+        <answer isCorrect="false">Разрешается.</answer>
+        <answer isCorrect="false">Разрешается в светлое время суток.</answer>
+        <answer isCorrect="true">Запрещается.</answer>
+    </question>
+    <question id="3009" topic="6">
+        <text>Разрешается ли водителю зеленого автомобиля выполнить обгон? (Красный автомобиль выполняет объезд).</text>
+        <highwayCode>14.6 "Г"</highwayCode>
+        <answer isCorrect="true">Запрещается.</answer>
+        <answer isCorrect="false">Разрешается.</answer>
+        <answer isCorrect="false">Разрешается, только если красный автомобиль движется со скоростью менее 30 км/ч.</answer>
+    </question>
+    <question id="3702" topic="7">
+        <text>В этом месте водителю запрещается:</text>
+        <highwayCode>10.7."Б"; 15.9 "В"</highwayCode>
+        <answer isCorrect="true">Разворот, остановка, стоянка.</answer>
+        <answer isCorrect="false">Движение со скоростью более 60 км/ч.</answer>
+        <answer isCorrect="false">Действия указанные в ответах 1 и 2.</answer>
+    </question>
+    <question id="4402" topic="7">
+        <text>Выезжая на дорогу с полосы разгона на легковом автомобиле Вы:</text>
+        <highwayCode>10.8</highwayCode>
+        <answer isCorrect="true">Обязаны двигаться по полосе разгона, влиться в транспортный поток, уступая дорогу грузовому автомобилю.</answer>
+        <answer isCorrect="false">Имеете преимущество перед грузовым автомобилем.</answer>
+    </question>
+     <question id="0114" topic="7">
+        <text>Разрешена ли остановка в этом месте на проезжей части с односторонним движением?</text>
+        <highwayCode>15.3</highwayCode>
+        <answer isCorrect="true">Разрешена.</answer>
+        <answer isCorrect="false">Запрещена.</answer>
+    </question>
+    <question id="1514" topic="7">
+        <text>Водители каких транспортных средств не нарушили правила стоянки вне населенного пункта?</text>
+        <highwayCode>15.3</highwayCode>
+        <answer isCorrect="false">Водитель легкового автомобиля.</answer>
+        <answer isCorrect="false">Водитель грузового автомобиля.</answer>
+        <answer isCorrect="true">Оба водителя нарушили.</answer>
+    </question>
+    <question id="2214" topic="7">
+        <text>В условиях недостаточной видимости населенного пункта стоянка вне населенного пункта разрешается:</text>
+        <highwayCode>15.11</highwayCode>
+        <answer isCorrect="false">Как можно правее на обочине.</answer>
+        <answer isCorrect="true">Только на площадках для стоянки или за пределами дороги.</answer>
+        <answer isCorrect="false">В местах, указанных в ответах N 1 и N 2.</answer>
+    </question>
+    <question id="2504" topic="7">
+        <text>Разрешается ли водителю-инвалиду, управляющему автомобилем, обозначенным опознавательным знаком "Инвалид", остановиться в зоне действия этого знака с табличкой?</text>
+        <highwayCode>2.7</highwayCode>
+        <answer isCorrect="true">Разрешается.</answer>
+        <answer isCorrect="false">Запрещается.</answer>
+    </question>
+    <question id="3314" topic="7">
+        <text>Кто из водителей правильно поставил свое транспортное средство на стоянку на дороге с односторонним движением?</text>
+        <highwayCode>15.3,15.9 "Г", 5.5 Прил. 1</highwayCode>
+        <answer isCorrect="false">Водитель грузового автомобиля.</answer>
+        <answer isCorrect="false">Водитель легкового автомобиля.</answer>
+        <answer isCorrect="true">Оба правильно.</answer>
+        <answer isCorrect="false">Оба неправильно.</answer>
+    </question>
+    <question id="3716" topic="7">
+        <text>Этот дорожный знак разрешает остановить транспортное средство:</text>
+        <highwayCode>1.9; 3.35 Прил. 1</highwayCode>
+        <answer isCorrect="false">Только для посадки (высадки) пассажиров.</answer>
+        <answer isCorrect="false">Только для погрузки (разгрузки)груза.</answer>
+        <answer isCorrect="false">Только на время до 5 мин.</answer>
+        <answer isCorrect="false">Для выполнения действий, указанных в ответах 1 и 2.</answer>
+        <answer isCorrect="true">Для выполнения всех вышеуказанных действий.</answer>
+    </question>
+    <question id="4603" topic="7">
+        <text>Эти знак и табличка обозначают:</text>
+        <highwayCode>5.38, 7.6.2 Прил. N1</highwayCode>
+        <answer isCorrect="false">Место для стоянки грузовых автомобилей с "разрешенной" максимальной массой более 3,5 т. Табличка указывает, что у края проезжей части высокий бордюрный камень.</answer>
+        <answer isCorrect="false">Место для стоянки транспортных средств, способ постановки автомобиля, указанный на табличке, запрещается.</answer>
+        <answer isCorrect="true">Место и способ постановки легковых автомобилей и мотоциклов на стоянке.</answer>
+    </question>
+    <question id="111" topic="8">
+        <text>В каком порядке проедут перекресток транспортные средства?</text>
+        <highwayCode>16.11 16.13</highwayCode>
+        <answer isCorrect="false">Красный, синий, желтый, зеленый.</answer>
+        <answer isCorrect="false">Желтый, зеленый, красный, синий.</answer>
+        <answer isCorrect="true">Красный, зеленый, синий, желтый.</answer>
+    </question>
+    <question id="511" topic="8">
+        <text>Транспортные средства проедут перекресток в следующем порядке:</text>
+        <highwayCode>16.11 16.13</highwayCode>
+        <answer isCorrect="true">Трамвай 1 и 2; зеленый автомобиль; красный, синий автомобили.</answer>
+        <answer isCorrect="false">Трамвай 1, красный автомобиль, зеленый автомобиль; трамвай 2,синий автомобиль.</answer>
+    </question>
+    <question id="911" topic="8">
+        <text>Автомобили проедут перекресток в следующем порядке:</text>
+        <highwayCode>16.11 16.13</highwayCode>
+        <answer isCorrect="false">Синий; зеленый; красный.</answer>
+        <answer isCorrect="true">Красный; синий; зеленый.</answer>
+        <answer isCorrect="false">Зеленый; красный; синий.</answer>
+    </question>
+    <question id="1211" topic="8">
+        <text>Автомобили проедут перекресток в следующем порядке:</text>
+        <highwayCode>16.12</highwayCode>
+        <answer isCorrect="false">Желтый выедет на перекресток и остановится, чтобы уступить дорогу зеленому, синий, красный.</answer>
+        <answer isCorrect="false">Синий, красный, зеленый, желтый.</answer>
+        <answer isCorrect="true">Зеленый, синий и красный, желтый.</answer>
+    </question>
+    <question id="1912" topic="8">
+        <text>Первым проедет перекресток:</text>
+        <highwayCode>16.12 16.13</highwayCode>
+        <answer isCorrect="false">Красный автомобиль.</answer>
+        <answer isCorrect="false">Синий автомобиль.</answer>
+        <answer isCorrect="true">Желтый автомобиль.</answer>
+        <answer isCorrect="false">Зеленый автомобиль.</answer>
+    </question>
+    <question id="201" topic="9">
+        <text>Что должен предпринять водитель красного автомобиля при приближении транспортного средства, подающего специальный звуковой и световой сигналы?</text>
+        <highwayCode>3.2</highwayCode>
+        <answer isCorrect="false">Остановиться, не меняя полосу движения, и включить аварийную световую сигнализацию.</answer>
+        <answer isCorrect="true">Снизить скорость и продолжать движение, избегая резких маневров, связанных с перестроением.</answer>
+        <answer isCorrect="false">Уступить дорогу.</answer>
+    </question>
+     <question id="907" topic="9">
+        <text>В каком случае водитель мотоцикла повернул налево правильно? </text>
+        <highwayCode>8.9 8.8 "Б"</highwayCode>
+        <answer isCorrect="false">Выехал на перекресток, пропустил грузовой автомобиль, закончил поворот.</answer>
+        <answer isCorrect="true">При данном жесте регулировщика повернул налево безостановочно.</answer>
+    </question>
+    <question id="1807" topic="9">
+        <text>Движение разрешено:</text>
+        <highwayCode>8.8 "A"</highwayCode>
+        <answer isCorrect="false">Сине-желтому автомобилю - налево.</answer>
+        <answer isCorrect="true">Сине-желтому автомобилю - прямо, красному автомобилю - прямо и направо.</answer>
+        <answer isCorrect="false">Только красному автомобилю.</answer>
+    </question>
+    <question id="2508" topic="9">
+        <text>Обязан ли водитель подавать предупреждающий сигнал перед перестроением?</text>
+        <highwayCode>9.2 "Б"</highwayCode>
+        <answer isCorrect="false">Только в населенном пункте, если сзади него движется другое транспортное средство.</answer>
+        <answer isCorrect="true">Во всех случаях необходимо заблаговременно до начала маневра, но не менее чем за 50-100 м в населенных пунктах и за 150-200 м вне их.</answer>
+    </question>
+    <question id="2919" topic="9">
+        <text>Разрешается ли подключать задние противотуманные фонари к сигналам торможения транспортного средства?</text>
+        <highwayCode>19.7</highwayCode>
+        <answer isCorrect="false">Разрешается только на грузовых автомобилях.</answer>
+        <answer isCorrect="false">Разрешается только на легковых автомобилях.</answer>
+        <answer isCorrect="false">Разрешается только на транспортных средствах, осуществляющих междугородние перевозки.</answer>
+        <answer isCorrect="false">Разрешается на всех вышеперечисленных транспортных средствах.</answer>
+        <answer isCorrect="true">Запрещается.</answer>
+    </question>
+</document>
